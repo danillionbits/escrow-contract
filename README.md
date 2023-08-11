@@ -18,6 +18,6 @@ The Escrow Smart Contract provides a secure platform for holding funds or assets
 Contributions are welcomed through pull requests. For significant changes, please start by opening an issue to discuss your proposed alterations.
 
 ## Acknowledgements
-- ["From Idea to Execution: Developing Your First Escrow Smart Contract as a Beginner" by Daniel Pham](https://medium.com/coinmonks/building-a-lottery-smart-contract-a-step-by-step-guide-for-beginners-7607620f08c9)
+- ["From Idea to Execution: Developing Your First Escrow Smart Contract as a Beginner" by Daniel Pham](https://medium.com/coinmonks/from-idea-to-execution-developing-your-first-escrow-smart-contract-as-a-beginner-41d4ba278842)
 - [Solidity docs](https://docs.soliditylang.org/en/v0.8.21/)
 - [Remix IDE](https://remix.ethereum.org/)
