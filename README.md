@@ -14,7 +14,7 @@ The Escrow Smart Contract provides a secure platform for holding funds or assets
 
 6. **Refund (Optional):** In cases where the transaction cannot be completed, the seller can initiate a refund by using the returnPayment function, returning funds to the buyer.
 
-## Contributing
+## Contributions
 Contributions are welcomed through pull requests. For significant changes, please start by opening an issue to discuss your proposed alterations.
 
 ## Acknowledgements
